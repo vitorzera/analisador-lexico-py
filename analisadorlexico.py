@@ -1,7 +1,7 @@
 import re
 
 def analiseLexica():
-    f = open("calculadoraBasica.c", "r")  # Abre o arquivo para leitura
+    f = open("nome-do-arquivo.c", "r")  # Abre o arquivo para leitura
     lines = f.readlines()
 
     tokens = {}
