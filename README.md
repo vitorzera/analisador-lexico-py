@@ -1,6 +1,7 @@
 # analisador-lexico-py
 Analisador Léxico desenvolvido em python para ler arquivos da linguagem C.
 
+## Id dos Tokens
 Palavra reservada (150): Representa palavras reservadas como "int" e "return".
 
 Biblioteca (151+): Representa bibliotecas incluídas com #include <...>.
